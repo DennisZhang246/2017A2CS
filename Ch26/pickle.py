@@ -1,3 +1,6 @@
+#S3C3 Dennis Zhang
+#pickle
+
 class CarRecord:
     def _init_(self):
         self.VehicleID = ""
