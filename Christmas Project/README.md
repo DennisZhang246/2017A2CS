@@ -1,4 +1,4 @@
-{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
 {\fonttbl\f0\fnil\fcharset204 PTSans-Regular;\f1\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red109\green109\blue109;\red251\green251\blue251;\red72\green72\blue72;
 \red109\green109\blue109;}
@@ -10,7 +10,7 @@
 
 \f0\fs61\fsmilli30600 \cf2 \cb3 \expnd0\expndtw0\kerning0
 #
-\b \cf4 Winter Project
+\b \cf4 Christmas Project
 \b0\fs36 \
 \pard\pardeftab720\partightenfactor0
 
