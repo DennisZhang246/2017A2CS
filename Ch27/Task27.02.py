@@ -34,7 +34,7 @@ class LibraryItem:
         
     def PrintDetails(self):
         print(self.__Title, ' ; ', self.__Author_Artist,end='')
-        print(' ; ', self.__ItemID, ' ; ', self.__OnLoan,end='')
+        print(' ; ', self.__ItemID, ' ; ', self.__OnLoan,end='')
         print(' ; ', self.__DueDate)
         
 class Book(LibraryItem):
