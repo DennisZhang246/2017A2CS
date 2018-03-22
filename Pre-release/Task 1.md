@@ -22,6 +22,7 @@ WHILE ____?
 ENDWHILE
 
 ### 1.4
+https://github.com/DennisZhang246/2017A2CS/blob/master/Pre-release/Task%201.4.jpeg
 
 ### 1.5
 WHILE ____?
