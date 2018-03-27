@@ -119,7 +119,12 @@ class Vehicle(Toy):
 	self.__weight=weight
 
 ###2.5
-
+try: 
+    if age>0 and age<=18: 
+	self.__age = age; 
+    else: 
+        age=input('unvalid age.');
+	
 ###2.6
 def main()
     toy1=vechile('Red Sport Car',10)
