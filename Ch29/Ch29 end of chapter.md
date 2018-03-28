@@ -33,8 +33,10 @@ qualifiedCarDrivers(X) :-\
 \
 ### ii\
 partQualified(X) :- \
-	passedTheoryTest(X);\
-	not(passedDrivingTest(X, _)).\
+	passedTheoryTest(X),
+	not(passedDrivingTest(X, _));
+	not(passedTheoryTest(X)),
+	passedDrivingTest(X, _).
 \
 \
 \
